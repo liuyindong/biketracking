@@ -6,7 +6,7 @@ I made this app focusing exclusively on the features that I consider necessary a
 
 In addition, the app keeps GPS tracks inside the device, **without sending and saving your location data on external servers**.
 
-As for the online altitude calculation, for Europe I use a service I created that does not store the coordinates of the users but only uses them to determine the DEM (Digital Elevation Measure) value, while outside Europe I use a similar service provided by MapBox ([see Privacy](./PRIVACY.md))
+As for the online altitude calculation, for Europe I use a service I created that does not store the coordinates of the users but only uses them to determine the DEM (Digital Elevation Measure) value, while outside Europe I use a similar service provided by MapBox ([see PRIVACY](./PRIVACY.md))
 
 ## Features
 
