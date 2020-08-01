@@ -7,7 +7,7 @@ Ho realizzato questa app puntando esclusivamente alle funzionalità che ritengo 
 
 Inoltre l'app mantiene le tracce GPS all'interno del dispositivo, __senza inviare e salvare su server esterni__ i tuoi dati della localizzazione.
 
-Per quanto riguarda il calcolo online dell' altitudine, per l' Europa utilizzo un servizio da me realizzato che non memorizza le coordinate degli utenti ma le utilizza esclusivamente determinare il valore DEM (Digital Elevation Measure), mentre fuori dall'Europa utilizzo un servizio analogo fornito da MapBox.
+Per quanto riguarda il calcolo online dell' altitudine, per l' Europa utilizzo un servizio da me realizzato che non memorizza le coordinate degli utenti ma le utilizza esclusivamente determinare il valore DEM (Digital Elevation Measure), mentre fuori dall'Europa utilizzo un servizio analogo fornito da MapBox ([leggi la PRIVACY](./PRIVACY_IT.md)).
 
 # Funzionalità
 
