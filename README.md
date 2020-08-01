@@ -4,9 +4,9 @@ __BikeTracking__ is a GPS tracking Android app for cycling activities created by
 
 I made this app focusing exclusively on the features that I consider necessary and important on the basis of my experience as an amateur cyclist, eliminating everything superfluous present in other similar apps, such as social sharing, vocal training, location sharing.
 
-In addition, the app keeps GPS tracks inside the device, without sending and saving your location data on external servers.
+In addition, the app keeps GPS tracks inside the device, **without sending and saving your location data on external servers**.
 
-As for the online altitude calculation, for Europe I use a service I created that does not store the coordinates of the users but only uses them to determine the DEM (Digital Elevation Measure) value, while outside Europe I use a similar service provided by MapBox.
+As for the online altitude calculation, for Europe I use a service I created that does not store the coordinates of the users but only uses them to determine the DEM (Digital Elevation Measure) value, while outside Europe I use a similar service provided by MapBox ([see Privacy](./PRIVACY.md))
 
 ## Features
 
