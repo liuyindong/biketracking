@@ -1,6 +1,6 @@
 # BikeTracking
 
-__BikeTracking__ is a GPS tracking Android app for cycling activities created by a passionate bicycle developer.
+[__BikeTracking__](https://play.google.com/store/apps/details?id=org.biketracking) is a GPS tracking Android app for cycling activities created by a passionate bicycle developer.
 
 I made this app focusing exclusively on the features that I consider necessary and important on the basis of my experience as an amateur cyclist, eliminating everything superfluous present in other similar apps, such as social sharing, vocal training, location sharing.
 
