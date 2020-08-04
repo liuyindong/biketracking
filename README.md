@@ -8,6 +8,8 @@ In addition, the app keeps GPS tracks inside the device, **without sending and s
 
 As for the online altitude calculation, for Europe I use a service I created that does not store the coordinates of the users but only uses them to determine the DEM (Digital Elevation Measure) value, while outside Europe I use a similar service provided by MapBox ([see PRIVACY](./PRIVACY.md))
 
+[Install BikeTracking from Google Play](https://play.google.com/store/apps/details?id=org.biketracking) 
+
 ## Features
 
 * measure realtime __distance__, __duration__, __speed__, __average__
